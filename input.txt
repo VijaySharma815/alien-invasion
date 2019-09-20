@@ -1,0 +1,2 @@
+Foo NORTH=Bar WEST=Baz SOUTH=Qu-ux
+Bar SOUTH=Foo WEST=Bee
