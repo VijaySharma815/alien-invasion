@@ -55,7 +55,7 @@ Bar SOUTH=Foo WEST=Bee
 2. Build Project:
 
 ```
-$ go build -n invasion
+$ go build -o invasion
 ```
 
 3. Run Project and Enter number of aliens:
