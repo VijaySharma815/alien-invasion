@@ -40,6 +40,10 @@ Bar has been destroyed by alien 10 and alien 34!
 
 - Directions would be provided in caps: NORTH, SOUTH, EAST, WEST
 
+### Dependencies
+
+1. [GoLang](https://golang.org/dl/) version go1.11.4 linux/amd64
+
 
 ## Solution
 
